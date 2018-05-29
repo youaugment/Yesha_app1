@@ -1,0 +1,10 @@
+{"producer":{"name":"Blender","version":"2.74 (sub 0)","exporter_version":"4.6.1","file":"baby.babylon"},
+"autoClear":true,"clearColor":[0.2,0.2,0.2],"ambientColor":[0,0,0],"gravity":[0,-9.81,0],
+"materials":[],
+"multiMaterials":[],
+"skeletons":[],
+"meshes":[{"name":"Baby_root","id":"Baby_root","position":[0,0,0],"rotationQuaternion":[0,0,0,-1],"scaling":[0.01,0.01,0.01],"isVisible":false,"isEnabled":true,"checkCollisions":false,"billboardMode":0,"receiveShadows":false}],
+"cameras":[],
+"lights":[],
+"shadowGenerators":[]
+}
